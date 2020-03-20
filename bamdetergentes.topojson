@@ -4,6 +4,6 @@
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.4653115, -32.9720687]},"properties": {"Tienda": "Emporio Madre Tierra", "Dirección": "𝑉𝑖𝑐𝑢ñ𝑎 M𝑎𝑐𝑘𝑒𝑛𝑛𝑎 1050 𝐿ocal 5, 𝑅𝑒ñ𝑎𝑐𝑎", "Horario": "", "Teléfono": "" , "Web": "www.facebook.com/emporiomadretierrachile"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.8142967, -32.9953892]},"properties": {"Tienda": "Emporio Granel Olmué", "Dirección": "Prat 5122, Local 2, Olmué", "Horario": "Lunes a Sábado desde 10:00 a 20:00 hrs", "Teléfono": "" , "Web": "www.emporiogranelolmue.cl"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.5528782, -33.0479419]},"properties": {"Tienda": "Emporio Clafira", "Dirección": "Los Carrera 549, Local 6, Quilpué", "Horario": "", "Teléfono": "" , "Web": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.4263313, -33.1185525]},"properties": {"Tienda": "Lavanderia Placilla/", "Dirección": "Av. Obispo Valdés Subercaseaux 1170, Curauma, Valparaíso", "Horario": "", "Teléfono": "" , "Web": ""} }"
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.4263313, -33.1185525]},"properties": {"Tienda": "Lavanderia Placilla/", "Dirección": "Av. Obispo Valdés Subercaseaux 1170, Curauma, Valparaíso", "Horario": "", "Teléfono": "" , "Web": ""} }
 
 ]  }
