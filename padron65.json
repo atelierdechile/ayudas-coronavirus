@@ -1,16 +1,16 @@
 {"name": "Padron 65 años",
- "children": [
-             {"name": "Region 1",
-              "children": [  {"name": "Comuna 1", "children": [ {"name": "Hombres", "size": 1005},  {"name": "Mujeres", "size": 1004}  ]  },
-                             {"name": "Comuna 2", "children": [ {"name": "Hombres", "size": 1000},  {"name": "Mujeres", "size": 1000}  ]  }
-                          ]
-             }, 
-             {"name": "Region 2",
-              "children": [ {"name": "Water", "size": 2001},
-                            {"name": "xtream Situations", "size": 2002},
-                            {"name": "Drones", "size": 2003},
-                            {"name": "Otros", "size": 2004}
-                          ]
-             }
-             ]
- }
+"children": [
+
+{"name": "Region 1", 
+"children": [
+{"name": "Comuna 1", "children":[{"name": "Hombres", "size": 100},{"name": "Mujeres", "size": 100}),
+{"name": "Comuna 2", "children":[{"name": "Hombres", "size": 150},{"name": "Mujeres", "size": 50})
+]},
+{"name": "Region 2", 
+"children": [
+{"name": "Comuna 1", "children":[{"name": "Hombres", "size": 200},{"name": "Mujeres", "size": 100}),
+{"name": "Comuna 2", "children":[{"name": "Hombres", "size": 100},{"name": "Mujeres", "size": 200})
+]}
+
+
+] }
