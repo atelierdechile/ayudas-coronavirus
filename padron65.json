@@ -3,13 +3,13 @@
 
 {"name": "Region 1", 
 "children": [
-{"name": "Comuna 1", "children":[{"name": "Hombres", "size": 100},{"name": "Mujeres", "size": 100}),
-{"name": "Comuna 2", "children":[{"name": "Hombres", "size": 150},{"name": "Mujeres", "size": 50})
+{"name": "Comuna 1", "children":[{"name": "Hombres", "size": 100},{"name": "Mujeres", "size": 100}]),
+{"name": "Comuna 2", "children":[{"name": "Hombres", "size": 150},{"name": "Mujeres", "size": 50}])
 ]},
 {"name": "Region 2", 
 "children": [
-{"name": "Comuna 1", "children":[{"name": "Hombres", "size": 200},{"name": "Mujeres", "size": 100}),
-{"name": "Comuna 2", "children":[{"name": "Hombres", "size": 100},{"name": "Mujeres", "size": 200})
+{"name": "Comuna 1", "children":[{"name": "Hombres", "size": 200},{"name": "Mujeres", "size": 100}]),
+{"name": "Comuna 2", "children":[{"name": "Hombres", "size": 100},{"name": "Mujeres", "size": 200}])
 ]}
 
 
