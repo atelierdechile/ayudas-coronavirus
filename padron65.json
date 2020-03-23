@@ -1,18 +1,11 @@
 {"name": "Padron 65 años",
  "children": [
-             {"name": "IDEAS",
-              "children": [
-                          {"name": "KM - Latch",
-                          "children": [ {"name": "Location", "size": 1005},
-                                        {"name": "Alphabetic", "size": 1004},
-                                        {"name": "Timeline", "size": 1003},
-                                        {"name": "Category", "size": 1002},
-                                        {"name": "Hierarchy", "size": 1001}
-                                      ]
-                          }
+             {"name": "Region 1",
+              "children": [  {"name": "Comuna 1", "children": [ {"name": "Hombres", "size": 1005},  {"name": "Mujeres", "size": 1004}  ]  },
+                             {"name": "Comuna 2", "children": [ {"name": "Hombres", "size": 1000},  {"name": "Mujeres", "size": 1000}  ]  }
                           ]
              }, 
-             {"name": "Objects for Real Desing",
+             {"name": "Region 2",
               "children": [ {"name": "Water", "size": 2001},
                             {"name": "xtream Situations", "size": 2002},
                             {"name": "Drones", "size": 2003},
