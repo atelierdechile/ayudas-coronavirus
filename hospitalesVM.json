@@ -1,7 +1,7 @@
 {"name": "CORFO Fondos Concursables",
 "children": [
 {"name": "Region De Tarapacá", "children":[
-{"name": "Hospital Dr. Ernesto Torres Galdames (Iquique)", "children":[{"name": "Dirección: Calle Héroes de la Concepción 502", "size": 100}, {"name": "Marca VM: marca"}, {"name": "Cantidad: N", "size": 100}]}}},
+{"name": "Hospital Dr. Ernesto Torres Galdames (Iquique)", "children":[{"name": "Dirección: Calle Héroes de la Concepción 502", "size": 100}, {"name": "Marca VM: marca"}, {"name": "Cantidad: N", "size": 100}]}]},
 {"name": "Region De Antofagasta", "children":[
 {"name": "Hospital Dr. Leonardo Guzmán (Antofagasta)", "children":[{"name": "Dirección: Avenida Argentina 1964", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
 {"name": "Hospital Dr. Carlos Cisternas (Calama)", "children":[{"name": "Dirección: Avenida Grau 1490", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
