@@ -1,1 +1,23 @@
-test
+{"name": "Ventiladores Mecánicos en Hospitales de Chile",
+"children": [
+{"name": "Region De Tarapacá", "children":[
+{"name": "Hospital Dr. Ernesto Torres Galdames (Iquique)", "children":[{"name": "Dirección: Calle Héroes de la Concepción 502", "size": 100}, {"name": "Marca VM: marca"}, {"name": "Cantidad: N", "size": 100}]},
+{"name": "Region De Antofagasta", "children":[
+{"name": "Hospital Dr. Leonardo Guzmán (Antofagasta)", "children":[{"name": "Dirección: Avenida Argentina 1964", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
+{"name": "Hospital Dr. Carlos Cisternas (Calama)", "children":[{"name": "Dirección: Avenida Grau 1490", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
+{"name": "Hospital Dr. Marcos Macuada (Tocopilla)", "children":[{"name": "Dirección: ", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
+{"name": "Hospital 21 de Mayo (Taltal)", "children":[{"name": "Dirección: Calle OHiggins 450", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
+{"name": "Hospital de Mejillones", "children":[{"name": "Dirección: Avenida Bernardo OHiggins 451", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
+{"name": "Hospital Cruz del Norte", "children":[{"name": "Dirección: ", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
+{"name": "Hospital Militar del Norte", "children":[{"name": "Dirección: Avenida Borgoño 957", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
+{"name": "Hospital del Cobre Salvador Allende", "children":[{"name": "Dirección: Avenida Chorrillos 689", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]} ]},
+{"name": "Region De Atacama", "children":[
+{"name": "Hospital San José del Carmen (Copiapó)", "children":[{"name": "Dirección: Calle Los Carrera 1320", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
+{"name": "Hospital Dr. Jerónimo Méndez Arancibia (Chañaral)", "children":[{"name": "Dirección: Avenida Arturo Prat 1000", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
+{"name": "Hospital Dr. Florencio Vargas (Diego de Almagro)", "children":[{"name": "Dirección: Calle Juan Martínez 2200", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
+{"name": "Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar)", "children":[{"name": "Dirección: ", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
+{"name": "Hospital Dr. Manuel Magalhaes Medling (Huasco)", "children":[{"name": "Dirección: Calle Canteras 105", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
+{"name": "Hospital San Juan de Dios (La Serena)", "children":[{"name": "Dirección: Calle Balmaceda 916", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]} ]},
+
+
+] }
