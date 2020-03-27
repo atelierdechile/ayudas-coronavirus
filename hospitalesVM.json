@@ -17,7 +17,7 @@
 {"name": "Hospital Dr. Florencio Vargas (Diego de Almagro)", "children":[{"name": "Dirección: Calle Juan Martínez 2200", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
 {"name": "Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar)", "children":[{"name": "Dirección: ", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
 {"name": "Hospital Dr. Manuel Magalhaes Medling (Huasco)", "children":[{"name": "Dirección: Calle Canteras 105", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
-{"name": "Hospital San Juan de Dios (La Serena)", "children":[{"name": "Dirección: Calle Balmaceda 916", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]} ]},
+{"name": "Hospital San Juan de Dios (La Serena)", "children":[{"name": "Dirección: Calle Balmaceda 916", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]} ]}
 
 
 ] }
