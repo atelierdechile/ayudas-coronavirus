@@ -241,8 +241,6 @@
 {"name": "Hospital Dr. Marco Antonio Chamorro ( Porvenir)", "children":[{"name": "Dirección: Calle Carlos Wood 480", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
 {"name": "Hospital FFAA Cirujano Guzmán", "children":[{"name": "Dirección: Avenida Bulnes 256", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
 {"name": "Hospital Naval (Puerto Williams) (D)", "children":[{"name": "Dirección: ", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]},
-{"name": "Hospital Comunitario Cristina Calderón de Puerto Williams", "children":[{"name": "Dirección: Calle OHiggins 246", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]} ]},
-
-
+{"name": "Hospital Comunitario Cristina Calderón de Puerto Williams", "children":[{"name": "Dirección: Calle OHiggins 246", "size": 100}, {"name": "Marca VM: "}, {"name": "Cantidad: ", "size": 100}]} ]}
 
 ] }
