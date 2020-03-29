@@ -1,6 +1,11 @@
 # coronavirus
 Datos útiles
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ................................................
 <br>
 Conceptos claves
