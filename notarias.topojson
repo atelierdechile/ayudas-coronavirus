@@ -1,1 +1,11 @@
-hello
+{ "type": "FeatureCollection",
+"features": [
+
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3457505, -33.4386084]},"properties": {"Notaría": "Gloria Ortiz Carmona", "Dirección": "Compañía Nº 1068 Oficina 395", "Horario": "10.30 a 13.30 hrs", "Teléfono": "" , "Web": ""  ,   "Email": ""    } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3429326, -33.4376765]},"properties": {"Notaría": "Renata González Carvallo", "Dirección": "Catedral Nº 1265", "Horario": "10.30 a 13.30 hrs", "Teléfono": "" , "Web": ""  ,   "Email": ""    } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3471699, -33.4394759]},"properties": {"Notaría": "René Benavente Cash", "Dirección": "Huérfanos Nº 979, Piso 7", "Horario": "10.30 a 13.30 hrs", "Teléfono": "" , "Web": ""  ,   "Email": ""    } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3469531, -33.4391394]},"properties": {"Notaría": "Fernando Gomila Gatica", "Dirección": "Ahumada Nº 341, Piso 4", "Horario": "10.30 a 13.30 hrs", "Teléfono": "" , "Web": ""  ,   "Email": ""    } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3484323, -33.4374243]},"properties": {"Notaría": "Francisco Varas Plaza", "Dirección": "Phillips Nº 23", "Horario": "10.30 a 13.30 hrs", "Teléfono": "" , "Web": ""  ,   "Email": ""    } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3446867, -33.4399312]},"properties": {"Notaría": "Hernán Cuadra Gazmuri", "Dirección": "Huerfanos Nº 1160, oficina 100", "Horario": "10.30 a 13.30 hrs", "Teléfono": "" , "Web": ""  ,   "Email": ""    } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3460845, -33.4409519]},"properties": {"Notaría": "Alvaro González Salinas", "Dirección": "Agustinas Nº 1070 Piso 2", "Horario": "10.30 a 13.30 hrs", "Teléfono": "" , "Web": ""  ,   "Email": ""    } }
+]  }
