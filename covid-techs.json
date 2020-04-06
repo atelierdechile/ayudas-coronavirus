@@ -2,7 +2,7 @@
 "children": [
 
 {"name": "Test", "children: [
-{"name": "Aumentar la capacidad de testeo (poder diagnosticar el virus oportunamente)", "children":[
+{"name": "Aumentar la capacidad de testeo", "children": [
 {"name": "Fabricación local de PCRs", "size": 100},
 {"name": "Aumento de laboratorios certificados", "size": 100}     ]}
 {"name": "Objetivo 2", "children":[
