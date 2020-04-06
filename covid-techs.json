@@ -4,7 +4,7 @@
 {"name": "Test", "children: [
 {"name": "Aumentar la capacidad de testeo (poder diagnosticar el virus oportunamente)", "children":[
 {"name": "Fabricación local de PCRs", "size": 100},
-{"name": "Aumento de laboratorios certificados", "size": 100}     ]},
+{"name": "Aumento de laboratorios certificados", "size": 100}     ]}
 {"name": "Objetivo 2", "children":[
 {"name": "Tech 2", "size": 100},
 {"name": "Tech 3", "size": 100}   ]}
@@ -12,7 +12,7 @@
 {"name": "Track", "children: [
 {"name": "TRACK   1", "children":[
 {"name": "Fabricación local de PCRs", "size": 100},
-{"name": "Aumento de laboratorios certificados", "size": 100}     ]},
+{"name": "Aumento de laboratorios certificados", "size": 100}     ]}
 {"name": "TRACK   2", "children":[
 {"name": "Tech 2", "size": 100},
 {"name": "Tech 3", "size": 100}   ]}
@@ -20,7 +20,7 @@
 {"name": "Quarantine", "children: [
 {"name": "Quarentine 1", "children":[
 {"name": "Fabricación local de PCRs", "size": 100},
-{"name": "Aumento de laboratorios certificados", "size": 100}     ]},
+{"name": "Aumento de laboratorios certificados", "size": 100}     ]}
 {"name": "Quarentine 2", "children":[
 {"name": "Tech 2", "size": 100},
 {"name": "Tech 3", "size": 100}   ]}
